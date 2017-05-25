@@ -1,0 +1,8 @@
+[autorun]
+icon=/isolinux/icon.ico
+label=HackTrack GNU/Linux 2017.1 Revolution
+
+[Content]
+MusicFiles=false
+PictureFiles=false
+VideoFiles=false
